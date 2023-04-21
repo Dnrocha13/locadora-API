@@ -1,0 +1,24 @@
+{
+  "name": "locadora-api",
+  "version": "1.0.0",
+  "description": "api de locadora de filmes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dnrocha13/locadora-API.git"
+  },
+  "author": "Diego",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dnrocha13/locadora-API/issues"
+  },
+  "homepage": "https://github.com/Dnrocha13/locadora-API#readme",
+  "dependencies": {
+    "body": "^5.1.0",
+    "express": "^4.18.2",
+    "parser": "^0.1.4"
+  }
+}
